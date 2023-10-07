@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="`Q{,Sg46S/?l?-#*NL0^" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="zNUu4Yg?TK87IA!YAYCi"><value name="text"><shadow type="text" id="!nhX,3R[l9K^2C4F~e-v"><field name="TEXT">Hapukapsas</field></shadow></value><next><block type="controls_repeat_ext" id="-oK|(M!Nfk@k9,d4~xjZ"><value name="TIMES"><shadow type="math_whole_number" id="}5+_,.}C-}KFVgJ2mlhJ"><field name="NUM">3</field></shadow></value><statement name="DO"><block type="basic_show_icon" id="Ha48ysD-BvJ%8VE[$W0c"><field name="i">IconNames.Heart</field><next><block type="device_show_leds" id="-455*;[1RN#23NU787:e"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></next></block></statement></block></next></block></statement></block></xml>
